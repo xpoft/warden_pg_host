@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.xpoft.wardenpghost.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.xpoft.wardenpghost.MyBundle
 
 class MyApplicationService {
 
